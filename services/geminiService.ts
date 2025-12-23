@@ -4,7 +4,7 @@ import { QuizQuestion } from '../types';
 
 // QUAN TRỌNG: Hãy thay thế "YOUR_API_KEY_HERE" bằng khóa API Google Gemini của bạn.
 // Bạn có thể lấy khóa tại https://aistudio.google.com/app/apikey
-const API_KEY = "YOUR_API_KEY_HERE";
+const API_KEY = "AIzaSyDG3rpi7YMU6NYlaITynYl7Qfdwa8RSwys";
 
 const ai = new GoogleGenAI({ apiKey: API_KEY });
 
