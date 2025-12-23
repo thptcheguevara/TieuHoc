@@ -1,5 +1,0 @@
-{
-  "name": "Bài 29: Em làm được những gì? ",
-  "description": "An application to ask questions to the Gemini API and receive answers. It features a simple, clean chat interface.",
-  "requestFramePermissions": []
-}
